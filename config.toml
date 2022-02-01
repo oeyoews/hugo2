@@ -1,4 +1,5 @@
-baseURL = "https://oeyoews.gitlab.io/hugo2/"
+#baseURL = "https://oeyoews.gitlab.io/hugo2/"
+baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
@@ -127,22 +128,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     options = ""
 
   [params.social]                                         # 社交链接
-    #a-email = "jyao4783@gmail.com"
-    #b-stack-overflow = "http://localhost:1313"
-    #c-twitter = "http://localhost:1313"
-    #d-facebook = "http://localhost:1313"
-    #e-linkedin = "http://localhost:1313"
-    #f-google = "http://localhost:1313"
     g-github = "https://github.com"
-    #h-weibo = "http://localhost:1313"
-    #i-zhihu = "http://localhost:1313"
-    #j-douban = "http://localhost:1313"
-    #k-pocket = "http://localhost:1313"
-    #l-tumblr = "http://localhost:1313"
-    #m-instagram = "http://localhost:1313"
     n-gitlab = "https://gitlab.com"
-    #o-bilibili = "http://localhost:1313"
-
 
 # see https://gohugo.io/getting-started/configuration-markup
 [markup]
