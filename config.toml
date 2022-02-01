@@ -1,5 +1,5 @@
-#baseURL = "https://oeyoews.gitlab.io/hugo2/"
-baseURL = "https://example.com"
+baseURL = "https://oeyoews.gitlab.io/hugo2/"
+#baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
