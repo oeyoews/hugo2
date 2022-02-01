@@ -1,0 +1,22 @@
+image:
+    name: klakegg/hugo:ext-alpine
+    entrypoint : ['']
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  HUGO_ENV: "production"
+
+test:
+  script:
+  - hugo
+  except:
+  - master
+
+pages:
+  script:
+  - hugo
+  artifacts:
+    paths:
+    - public
+  only:
+  - even

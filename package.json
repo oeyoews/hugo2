@@ -1,0 +1,23 @@
+{
+  "name": "hugotest",
+  "version": "1.0.0",
+  "description": "- must have date and title - note to adjust the baseurl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/oeyoews/hugoTest.git"
+  },
+  "keywords": [],
+  "author": "oeyoews <jyao4783@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/oeyoews/hugoTest/issues"
+  },
+  "homepage": "https://gitlab.com/oeyoews/hugoTest#readme",
+  "dependencies": {
+    "hugo-extended": "^0.92.1"
+  }
+}
