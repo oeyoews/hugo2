@@ -151,3 +151,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [markup.goldmark]
   [markup.goldmark.renderer]
     unsafe = true
+
+[params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
+    enable = true
+    siteUV = true
+    sitePV = true
+    pagePV = true
