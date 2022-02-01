@@ -131,3 +131,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [markup.goldmark]
   [markup.goldmark.renderer]
     unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
