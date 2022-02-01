@@ -1,7 +1,6 @@
 ---
 title: Demo
 date: 2022-02-01
-tags: ["demo"]
 ---
 
 Demo this ia d summary
