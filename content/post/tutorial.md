@@ -18,11 +18,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ### DEmo
 
 <h2 align="center"> Tdemo
-<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg" style="zoom:33%;"/>
+<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg" width="200"/>
+![](https://cdn.jsDelivr.net/gh/oeyoews/img/)
 </h2>
-<img src="/images/clippy.svg" style="zoom:33%;"/>
 
+imgh
 ![demo](../../static/images/favicon.png)
+<img src="http" width="200"/>
 
 ```sh
 Git
