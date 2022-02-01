@@ -22,10 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ![](https://cdn.jsDelivr.net/gh/oeyoews/img/)
 </h2>
 
-imgh
-![demo](../../static/images/favicon.png)
-<img src="http" width="200"/>
-
 ```sh
 Git
 ```
