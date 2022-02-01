@@ -127,13 +127,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     options = ""
 
   [params.social]                                         # 社交链接
-    #a-email = "mailto:your@email.com"
+    a-email = "jyao4783@gmail.com"
     #b-stack-overflow = "http://localhost:1313"
     #c-twitter = "http://localhost:1313"
     #d-facebook = "http://localhost:1313"
     #e-linkedin = "http://localhost:1313"
     #f-google = "http://localhost:1313"
-    #g-github = "http://localhost:1313"
+    g-github = "https://github.com"
     #h-weibo = "http://localhost:1313"
     #i-zhihu = "http://localhost:1313"
     #j-douban = "http://localhost:1313"
@@ -151,9 +151,3 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [markup.goldmark]
   [markup.goldmark.renderer]
     unsafe = true
-
-[params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
-    enable = true
-    siteUV = true
-    sitePV = true
-    pagePV = true
