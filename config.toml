@@ -1,5 +1,8 @@
 # NOTE: must is web site io, not github repo
+# localhost:1313/hugo2
 #baseURL = "https://oeyoews.gitlab.io/hugo2/"
+# localhost:1313/
+# it's wired???
 baseURL = "https://oeyoews.top"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)

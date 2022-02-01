@@ -24,3 +24,25 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ```sh
 Git
 ```
+
+> Hello
+>> demo
+
+```
+THisi s ademo
+```
+
+<kbd> crrl </kbd>
+
+- [ ] demo
+- [x] dmeo
+
+:joy:
+
+:smile:
+
+:tada:
+
+{{% music "28196554" %}}
+
+{{% youtube "wC5pJm8RAu4" %}}
