@@ -1,6 +1,7 @@
 ---
 title: tutorial
 date: 2022-02-01
+tags: ["tutorial"]
 ---
 
 <!--![Hello](https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg)-->
@@ -42,6 +43,8 @@ Git
 
 ## shortcodes
 
+This current {{<year>}}
+
 {{% music "28196554" %}}
 
 NOTE: even you comment this google-new , still have warning
@@ -54,3 +57,6 @@ $$
 
 $x_2$
 
+## notes
+
+- not support in layouts/shortcodes/*.html comment html flag
