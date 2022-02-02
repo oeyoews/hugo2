@@ -18,5 +18,5 @@ Hello2
 ![Local Picture](/apple-touch-icon.png "Local Picture")
 
 <div style="text-align:center">
-<img src="" style="align:center" width="200"/>
+<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/test2.png" style="align:center" width="200"/>
 </div>
