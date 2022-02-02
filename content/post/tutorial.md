@@ -8,43 +8,45 @@ date: 2022-02-01
 
 # TUR
 
-## DEMo
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### DEmo
+## img
 
 <h2 align="center"> Tdemo
 </h2>
 <img src="https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg" width="200"/>
 
+## code
+
 ```sh
 Git
 ```
 
+## quote
+
 > Hello
 >> demo
 
-```
-THisi s ademo
-```
-
+## button
 <kbd> crrl </kbd>
+
+## todolist
 
 - [ ] demo
 - [x] dmeo
 
+## emoji
 :joy:
 
 :smile:
 
 :tada:
 
+## shortcodes
+
 {{% music "28196554" %}}
 
 NOTE: even you comment this google-new , still have warning
 
-{{% youtube "wC5pJm8RAu4" %}}
+## math
 
 $$
 E(\mathbf{v}, \mathbf{h}) = -\sum_{i,j}w_{ij}v_i h_j - \sum_i b_i v_i - \sum_j c_j h_j
@@ -52,9 +54,3 @@ $$
 
 $x_2$
 
-
-This is a demo
-
-This is a demo
-
-This is ademo
