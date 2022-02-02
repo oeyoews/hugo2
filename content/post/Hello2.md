@@ -16,3 +16,9 @@ Hello2
 ![hemo](/test2.png)
 
 ![Local Picture](/apple-touch-icon.png "Local Picture")
+
+<p align="center">
+<!--test-align-->
+<img src="/test2.png" style="align:center" width="200"/>
+</p>
+
