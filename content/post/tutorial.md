@@ -15,7 +15,11 @@ tags: ["tutorial"]
 
 <h2 align="center"> Tdemo
 </h2>
-<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg" width="200"/>
+
+<div style="text-align:center">
+<p> Hello </p>
+<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg" title="img" alt="img" style="zoom:50%" />
+</div>
 
 ## code
 
