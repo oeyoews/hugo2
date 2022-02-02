@@ -1,9 +1,11 @@
+# https://olowolo.com/post/hugo-quick-start/
 # NOTE: must is web site io, not github repo
 # localhost:1313/hugo2
 #baseURL = "https://oeyoews.gitlab.io/hugo2/"
 # localhost:1313/
 # it's wired???
 baseURL = "https://oeyoews.top"
+
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
@@ -11,8 +13,12 @@ preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hugo-theme-even"
+
 # NOTE: if not a git repo, will apear error
 enableGitInfo = true #  use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
+
+# resolve timezone can't appear
+buildfuture = true
 
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"
@@ -21,9 +27,12 @@ pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 5                                              # 首页每页显示的文章数
+paginate = 15                                              # 首页每页显示的文章数
 disqusShortname = ""      # disqus_shortname
-copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = "oeyoews"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+
+summaryLength = "20"
+#===
 
 [author]                  # essential                     # 必需
   name = "oeyoews"
@@ -83,9 +92,10 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   dateFormatToUse = "2006-01-02"
 
   # show word count and read time ?                       # 是否显示字数统计与阅读时间
-  moreMeta = false
+  moreMeta = true
 
   # Syntax highlighting by highlight.js
+  # Have a bug
   highlightInClient = false
 
   # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
@@ -130,20 +140,18 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [params.outdatedInfoWarning]
     enable = true
     hint = 30               # Display hint if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示提醒
-    warn = 180              # Display warning if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示警告
+    warn = 80              # Display warning if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示警告
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
 
 [markup]
   [markup.tableOfContents]
+    # toc level
     startLevel = 1
   [markup.goldmark]
   [markup.goldmark.renderer]
     unsafe = true
 
 [outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
+  home = ["HTML", "RSS", "JSON"]

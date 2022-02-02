@@ -6,7 +6,6 @@ date: 2022-02-01
 Demo this ia d summary
 
 <!--![Hello](https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg)-->
-<!--more-->
 
 # TUR
 
