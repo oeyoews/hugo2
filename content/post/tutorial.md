@@ -4,6 +4,7 @@ date: 2022-02-01
 tags: ["tutorial"]
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a2a2a02-e09a-4909-b4dd-0079e879b37d/deploy-status)](https://app.netlify.com/sites/oeyoews/deploys)
 <!--![Hello](https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg)-->
 <!--more-->
 
