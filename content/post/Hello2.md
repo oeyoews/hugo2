@@ -8,6 +8,11 @@ Hello2
 <!--<img src="https://source.unsplash.com/random" width=""/>-->
 <!--more-->
 
-![hemo](./favico.ico)
 
-![hemo](./test2.png)
+## img usage
+
+> must have slash
+
+![hemo](/test2.png)
+
+![Local Picture](/apple-touch-icon.png "Local Picture")
