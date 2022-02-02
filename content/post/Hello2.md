@@ -8,4 +8,4 @@ Hello2
 <!--<img src="https://source.unsplash.com/random" width=""/>-->
 <!--more-->
 
-![hemo](favico.ico)
+![hemo](./favico.ico)
