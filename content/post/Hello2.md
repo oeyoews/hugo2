@@ -17,8 +17,6 @@ Hello2
 
 ![Local Picture](/apple-touch-icon.png "Local Picture")
 
-<p align="center">
-<!--test-align-->
-<img src="/test2.png" style="align:center" width="200"/>
-</p>
-
+<div style="text-align:center">
+<img src="" style="align:center" width="200"/>
+</div>
