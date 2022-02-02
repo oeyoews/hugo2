@@ -1,5 +1,5 @@
 ---
-title: Demo
+title: tutorial
 date: 2022-02-01
 ---
 
@@ -54,6 +54,9 @@ $$
 
 $x_2$
 
-{{% admonition info "info" %}}
-Hello
-{{% /admonition %}}
+
+This is a demo
+
+This is a demo
+
+This is ademo
