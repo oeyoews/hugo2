@@ -52,7 +52,7 @@ $$
 E(\mathbf{v}, \mathbf{h}) = -\sum_{i,j}w_{ij}v_i h_j - \sum_i b_i v_i - \sum_j c_j h_j
 $$
 
-$$ x_2 $$
+$x_2$
 
 {{% admonition info "info" %}}
 Hello
