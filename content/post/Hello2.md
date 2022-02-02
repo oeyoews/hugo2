@@ -9,3 +9,5 @@ Hello2
 <!--more-->
 
 ![hemo](./favico.ico)
+
+![hemo](./test2.png)
