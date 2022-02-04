@@ -13,7 +13,7 @@ Hello2
 
 > must have slash
 
-![hemo](/test2.png)
+![hemo](/test2.png "test img")
 
 ![Local Picture](/apple-touch-icon.png "Local Picture")
 
@@ -21,11 +21,3 @@ Hello2
 <img src="https://cdn.jsDelivr.net/gh/oeyoews/img/test2.png" title="img" alt="img" style="align:center" width="100"/>
 <p> img </p>
 </div>
-
-<p style="text-align:right;color:brown;font-size:1px">
-2022-02-02T23:18:03+08:00
-</p>
-<p style="text-align:right;color:brown;font-size:1px">
-
-</p>
-

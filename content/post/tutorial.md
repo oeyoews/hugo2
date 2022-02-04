@@ -3,7 +3,7 @@ title: tutorial
 date: 2022-02-01
 tags: ["tutorial"]
 keywords: ["Hello"]
-hideHeaderAndFooter: true
+<!--hideHeaderAndFooter: true-->
 ---
 
 [<img src="https://api.netlify.com/api/v1/badges/2a2a2a02-e09a-4909-b4dd-0079e879b37d/deploy-status" alt="Netlify Status" style="zoom:80%;" />](https://app.netlify.com/sites/hugo2/deploys)
@@ -22,6 +22,8 @@ hideHeaderAndFooter: true
 <p> Hello </p>
 <img src="https://cdn.jsDelivr.net/gh/oeyoews/img/oeyoew.jpeg" title="img" alt="img" style="zoom:50%" />
 </div>
+
+`![hemo](/test2.png "test img")`  ![hemo](/test2.png "test2 img")
 
 ## code
 
